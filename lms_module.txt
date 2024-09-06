@@ -1,0 +1,65 @@
+user management
+- student 
+   - feedback
+   - manage profile 
+   - track progress
+   - enroll course
+   - personal settings 
+
+- teacher
+   - crud course
+   - 
+- moderator 
+  - manage teacher/student account
+  - check content of uploaded document 
+  - blacklist user 
+
+- point 
+- crud
+- daily login, 
+- block & report user
+- personal message 
+- user authentication & authorization (login)
+- forget password 
+
+course front
+- simple ui
+- filter search
+- suggestion algorithm (AI)
+- hot courses/ trending courses
+- add favourites 
+- difficulty
+
+course management
+- crud chapter
+- navigation panel 
+- unlock chapter(first 3 chap is free)
+- each chapter got its own comment section 
+- assessment & points rewards 
+  	- check box,radio button, textbox  
+	- essay question - AI 
+	- code question - online compiler
+- e-certificate
+
+
+
+forum
+- belong to a specific course 
+- crud post 
+- comment
+- upvote, downvote, like, 
+- favourites
+- share (facebook, insta, ... any platform ) 
+- search and filter ,sorting ... 
+- anonymous ??
+- pin post 
+
+
+
+
+
+
+
+
+
+

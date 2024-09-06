@@ -11,16 +11,16 @@ namespace masterpage1
 {
 
 
-    public partial class WebForm4
+    public partial class WebForm1
     {
 
         /// <summary>
-        /// login1 control.
+        /// ArtisRegisterControl1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::masterpage1.LoginControl login1;
+        protected global::masterpage1.ArtisRegisterControl ArtisRegisterControl1;
     }
 }
