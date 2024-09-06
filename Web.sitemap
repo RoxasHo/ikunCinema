@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Home.aspx" title="Homepage"  description="Main homepage of the web application.">
+    <siteMapNode url="~/Administration.aspx" title="" description="">
+      <siteMapNode url="~/AdminiManageMovieAddMovie.aspx" title="" description=""/>
+      <siteMapNode url="~/AdminManageMovieEditDetails.aspx" title="" description=""/>
+      <siteMapNode url="~/AdminManageMovieSelectMovie.aspx" title="" description=""/>
+      <siteMapNode url="~/AdminTimeTableAddTime.aspx" title="" description=""/>
+      <siteMapNode url="~/AdminTimeTableDetail.aspx" title="" description=""/>
+      <siteMapNode url="~/AdminTimeTableSelectMovie.aspx" title="" description=""/>
+      <siteMapNode url="~/Administration.aspx" title="" description=""/>
+    </siteMapNode>
+    <siteMapNode url="~/UserProfile.aspx" title="" description="">
+      <siteMapNode url="~/Register.aspx" title="" description=""/>
+      <siteMapNode url="~/Login.aspx" title="" description=""/>
+      <siteMapNode url="~/EditProfile2.aspx" title="" description=""/>
+      <siteMapNode url="~/ResetPassword.aspx" title="" description=""/>
+      <siteMapNode url="~/RegisterAdmin.aspx" title="" description=""/>
+    </siteMapNode>
+    <siteMapNode url="~/MovieDetails.aspx" title="" description="">
+      <siteMapNode url="~/NowShowing.aspx" title="" description=""/>
+      <siteMapNode url="~/Seat.aspx" title="" description=""/>
+      <siteMapNode url="~/Payment.aspx" title="" description=""/>
+      <siteMapNode url="~/PaymentSuccessful.aspx" title="" description=""/>
+    </siteMapNode>
+    <siteMapNode url="~/History.aspx" title="" description="">
+      <siteMapNode url="~/HistoryDetails.aspx" title="" description=""/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="CinemaTicketingSystem.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Cinema</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="StyleSheet.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+
+        <nav class="w3-sidebar w3-bar-block w3-animate-left w3-top w3-black" style="display:none;z-index:2;width:15%;min-width:150px" id="mySidebar">
+          <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding-large" style="width:100%;">☰</a>
+          <a href="Home.aspx" onclick="w3_close()" class="w3-bar-item w3-button w3-padding-large" style="width:100%;">HOME</a>
+            <a href="NowShowing.aspx" onclick="w3_close()" class="w3-bar-item w3-button w3-padding-large" style="width:100%;">NOW SHOWING</a>
+          <a href="History.aspx" onclick="w3_close()" class="w3-bar-item w3-button w3-padding-large" style="width:100%;">MY HISTORY</a>
+          <a href="Administration.aspx" onclick="w3_close()" class="w3-bar-item w3-button w3-padding-large" style="width:100%;">ADMINISTRATION</a>
+        </nav>
+
+        <div class="toper">
+            <div class="w3-bar w3-black w3-card">
+                <div class="w3-bar-item w3-button w3-padding-large" onclick="w3_open()">☰</div>
+                <a href="Home.aspx" class="w3-bar-item w3-button w3-padding-large">KUN CINEMA</a>
+                <asp:LinkButton ID="LogoutBtn" runat="server" visible="false" OnClick="Logout_Click" CssClass="w3-padding-large w3-hover-red w3-hide-small w3-right noneLinkStyle">LOGOUT</asp:LinkButton>
+                <asp:LinkButton ID="LoginBtn" runat="server" OnClick="Login_Click" CssClass="w3-padding-large w3-hover-red w3-hide-small w3-right noneLinkStyle">
+                    <i class="fa fa-user-circle-o"> &nbsp; </i><asp:Label ID="NavUserName" runat="server" Text="LOGIN"></asp:Label>
+                </asp:LinkButton>
+            </div>
+        </div>
+
+        
+        <div class="container body-content " style="margin-top:46px">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>  
+        </div>
+
+        <script>
+            function w3_open() {
+                document.getElementById("mySidebar").style.display = "block";
+            }
+
+            function w3_close() {
+                document.getElementById("mySidebar").style.display = "none";
+            }
+        </script>   
+
+    </form>
+</body>
+</html>

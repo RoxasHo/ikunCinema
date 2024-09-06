@@ -1,0 +1,354 @@
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll.config
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.pdb
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe.config
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.rsp
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe.config
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.rsp
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Console.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe.config
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.rsp
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CopyComplete
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.dll
+C:\Users\chang yow lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.pdb
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll.config
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.pdb
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe.config
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.rsp
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe.config
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.rsp
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Console.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.rsp
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CopyComplete
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.dll
+C:\Users\Yow Lap\Desktop\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.pdb
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll.config
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.pdb
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe.config
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.rsp
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe.config
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.rsp
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Console.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe.config
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.rsp
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csprojAssemblyReference.cache
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CopyComplete
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.dll
+C:\Users\TARUC\Downloads\CinemaTicketingSystem (7)\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.pdb
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll.config
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.pdb
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe.config
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.rsp
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe.config
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.rsp
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Console.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.rsp
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CopyComplete
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.dll
+C:\Users\Yow Lap\Downloads\CinemaTicketingSystem-20240103T125429Z-001\CinemaTicketingSystem\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.pdb
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll.config
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.pdb
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe.config
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.rsp
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe.config
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.rsp
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Console.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.rsp
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CopyComplete
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.dll
+C:\Users\Yow Lap\Desktop\WebAssignment\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.pdb
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll.config
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\CinemaTicketingSystem.pdb
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.exe.config
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csc.rsp
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.exe.config
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\csi.rsp
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Console.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.exe.config
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\vbc.rsp
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.csproj.CopyComplete
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.dll
+C:\Users\acerc\Downloads\CinemaTicketingSystem (8)\CinemaTicketingSystem\CinemaTicketingSystem\obj\Debug\CinemaTicketingSystem.pdb

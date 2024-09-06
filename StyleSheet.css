@@ -1,0 +1,329 @@
+﻿body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Karma", sans-serif
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(20, 20, 20);
+}
+
+.toper {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+}
+
+.pageContent {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 64px 0px;
+}
+
+.movieList {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.login {
+    background: rgba(241, 241, 241);
+    padding: 32px 32px;
+}
+
+.movie-item {
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: background 0.3s;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+    .movie-item:hover {
+        background: rgba(0, 0, 0, 0.7);
+    }
+
+.movie-info {
+    position: absolute;
+    width: 20vw;
+    height: 30vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: left;
+    opacity: 0;
+    transition: opacity 0.3s;
+    padding: 16px 32px;
+}
+
+.movie-container {
+    display: flex;
+    align-items: center;
+}
+
+.movie-item2 {
+    overflow: hidden;
+}
+
+.movie-info2 {
+    color: white;
+    padding-left : 40px;
+}
+
+.movie-item:hover .movie-info {
+    opacity: 1;
+    background: rgba(50, 50, 50, 0.7);
+}
+
+.noneLinkStyle {
+    text-decoration: none; /* Remove underline from the link */
+}
+
+.marginTop{
+    margin-top: 80px;
+}
+
+.marginTop2 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.paddingbottom {
+    padding-bottom: 30px;
+}
+
+.margintimetable {
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+.adminHome {
+    padding: 0 2em;
+}
+
+.adminheader {
+    font-size: 44px;
+    color: white;
+    text-align: left;
+}
+
+.nowShowheader {
+    font-size: 44px;
+    color: white;
+    text-align: left;
+    margin-left: 8%;
+}
+
+.adminmain {
+    padding: 2em;
+    display: flex;
+    /* justify-content: space-between; */ /* Remove this line */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.adminbutton {
+    width: 25%;
+    height: 10vh; /* 10% of the viewport height */
+    padding: 10px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    background-color: #4285f4; /* Blue color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 15px;
+}
+
+    .adminbutton:hover {
+        background-color: #3367d6; /* Darker blue on hover */
+    }
+
+.adminbutton2 {
+    width: 15%;
+    padding: 10px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    background-color: #4285f4; /* Blue color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    float: right;
+    margin-right: 6em;
+    margin-top: 10px;
+}
+
+    .adminbutton2:hover {
+        background-color: #3367d6; /* Darker blue on hover */
+    }
+
+.adminbutton3 {
+    width: 15%;
+    padding: 10px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    background-color: #4285f4; /* Blue color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    float: right;
+    margin-right: 6em;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+    .adminbutton3:hover {
+        background-color: #3367d6; /* Darker blue on hover */
+    }
+
+.adminbutton4 {
+    width: 100%;
+    padding: 10px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    background-color: #FF0000;
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    float: right;
+    margin-right: 6em;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    bottom: 30%;
+    height: 30%;
+}
+
+    .adminbutton4:hover {
+        background-color: #b00202; /* Darker blue on hover */
+    }
+
+.adminbutton5 {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #0000FF; /* Blue color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    float: right;
+    margin-right: 6em;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    bottom: 30%;
+    height: 30%;
+}
+
+    .adminbutton5:hover {
+        background-color: #000080; /* Darker blue on hover */
+    }
+
+.manageMovie{
+    width: 100%;
+}
+
+.timetable-item {
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: background 0.3s;
+    padding: 5px 25px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+    background-color: rgba(40, 40, 40);
+}
+
+    .timetable-item:hover {
+        background: rgba(0, 0, 0, 0.7);
+    }
+
+.timetable-info {
+    position: absolute;
+    width: 15vw;
+    height: 10vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: left;
+    opacity: 0;
+    transition: opacity 0.3s;
+    
+}
+
+.timetable-item:hover .timetable-info {
+    opacity: 1;
+    background: rgba(50, 50, 50, 0.7);
+}
+
+.bg {
+    position: relative;
+    margin: auto;
+    opacity: 0.4;
+}
+
+.movie-item-selected {
+    position: absolute;
+    box-shadow: 10px 10px 35px 15px rgba(0, 0, 0, 0.7);
+    border: 2px solid goldenrod;
+    border-radius: 15px;
+    top: 40%;
+    left: 20%;
+}
+
+.movie-details {
+    background: rgb(24 24 24 / 0.60);
+    position: absolute;
+    box-shadow: 10px 10px 35px 15px rgba(0, 0, 0, 0.7);
+    /*border: 2px solid goldenrod;*/
+    border-radius: 15px;
+    padding-right: 40px;
+    height: 25vw;
+    width: 35vw;
+    top: 50%;
+    left: 45%;
+}
+
+    .movie-details h1 {
+        text-transform: uppercase;
+        font-size: 40px;
+        color: white;
+        font-family: mont-bold,Monserrat;
+    }
+
+    .movie-details p1 {
+        font-weight: lighter;
+        font-size: 20px;
+        color: white;
+        font-family: mont-bold,Monserrat;
+    }
+
+    .movie-details p2 {
+        font-weight: lighter;
+        font-size: 15px;
+        color: white;
+        font-family: mont-bold,Monserrat;
+    }
